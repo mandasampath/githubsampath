@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'sampathweb'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_9cdc8bc6cc704b56bed5998d8ad52df6 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6583e14c8aae41f5a88f32dd0752a78a }}
         package: .
